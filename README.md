@@ -33,4 +33,7 @@ Understanding transaction dynamics helps identify strengths and opportunities. B
 
 ![Alt Text](https://github.com/AFZALSUNSHINE/Credit_Card_Transaction_Analysis/blob/main/CCT%20-Screenshot%202024-11-29%20131514.png "Optional Title")
 
+# intaractive dashboard 
+https://drive.google.com/file/d/1Figr3y-q6Ij-rUUd3zJKQo_sxOL7ywrl/view?usp=drive_link
+
 
