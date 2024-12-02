@@ -36,4 +36,7 @@ Understanding transaction dynamics helps identify strengths and opportunities. B
 # intaractive dashboard 
 https://drive.google.com/file/d/1Figr3y-q6Ij-rUUd3zJKQo_sxOL7ywrl/view?usp=drive_link
 
+# report PDF
+https://github.com/AFZALSUNSHINE/Credit_Card_Transaction_Analysis/blob/main/credit_card_report%2012.pdf
+
 
